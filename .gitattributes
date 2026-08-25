@@ -1,0 +1,9 @@
+# Text file normalization
+package-lock.json linguist-generated
+docs/**/*.html linguist-vendored
+*.json linguist-detectable=false
+*.sh text eol=lf
+dist/* linguist-vendored
+src/**/*.js linguist-detectable
+*.min.css linguist-generated
+* text=auto eol=lf
